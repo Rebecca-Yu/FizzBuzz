@@ -1,0 +1,113 @@
+Program: <fizzbuzz>.st
+Design Date: 30/09/2020
+Test Date: 05/10/2020
+
+Test: Compare expected output against actual output;
+		if outputs match, then program is correct 
+Result: PASS
+
+EXPECTED OUTPUT:                 ACTUAL OUTPUT:
+	1                                1
+	2                                2
+	Fizz                             'FIZZ'
+	4                                4
+	Buzz                             'BUZZ'
+	Fizz                             'FIZZ'
+	7                                7
+	8                                8
+	Fizz                             'FIZZ'
+	Buzz                             'BUZZ'
+	11                               11
+	Fizz                             'FIZZ'
+	13                               13
+	14                               14
+	FizzBuzz                         'FIZZ BUZZ'
+	16                               16
+	17                               17
+	Fizz                             'FIZZ'
+	19                               19
+	Buzz                             'BUZZ'
+	Fizz                             'FIZZ'
+	22                               22
+	23                               23
+	Fizz                             'FIZZ'
+	Buzz                             'BUZZ'
+	26                               26
+	Fizz                             'FIZZ'
+	28                               28
+	29                               29
+	FizzBuzz                         'FIZZ BUZZ'
+	31                               31
+	32                               32
+	Fizz                             'FIZZ'
+	34                               34
+	Buzz                             'BUZZ'
+	Fizz                             'FIZZ'
+	37                               37
+	38                               38
+	Fizz                             'FIZZ'
+	Buzz                             'BUZZ'
+	41                               41
+	Fizz                             'FIZZ'
+	43                               43
+	44                               44
+	FizzBuzz                         'FIZZ BUZZ'
+	46                               46
+	47                               47
+	Fizz                             'FIZZ'
+	49                               49
+	Buzz                             'BUZZ'
+	Fizz                             'FIZZ'
+	52                               52
+	53                               53
+	Fizz                             'FIZZ'
+	Buzz                             'BUZZ'
+	56                               56
+	Fizz                             'FIZZ'
+	58                               58
+	59                               59
+	FizzBuzz                         'FIZZ BUZZ'
+	61                               61
+	62                               62
+	Fizz                             'FIZZ'
+	64                               64
+	Buzz                             'BUZZ'
+	Fizz                             'FIZZ'
+	67                               67
+	68                               68
+	Fizz                             'FIZZ'
+	Buzz                             'BUZZ'
+	71                               71
+	Fizz                             'FIZZ'
+	73                               73
+	74                               74
+	FizzBuzz                         'FIZZ BUZZ'
+	76                               76
+	77                               77
+	Fizz                             'FIZZ'
+	79                               79
+	Buzz                             'BUZZ'
+	Fizz                             'FIZZ'
+	82                               82
+	83                               83
+	Fizz                             'FIZZ'
+	Buzz                             'BUZZ'
+	86                               86
+	Fizz                             'FIZZ'
+	88                               88
+	89                               89
+	FizzBuzz                         'FIZZ BUZZ'
+	91                               91
+	92                               92
+	Fizz                             'FIZZ'
+	94                               94
+	Buzz                             'BUZZ'
+	Fizz                             'FIZZ'
+	97                               97
+	98                               98
+	Fizz                             'FIZZ'
+	Buzz                             'BUZZ'
+
+
+
+	

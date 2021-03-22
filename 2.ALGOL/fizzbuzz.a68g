@@ -1,0 +1,25 @@
+# program: fizzbuzz #
+# author:  Rebecca Yu (19778914) #
+# date:    20/08/2020 #
+ 
+BEGIN
+	# loop, incrementing NUM from 1 to 100 (included)#
+	FOR i FROM 1 TO 100
+	DO		
+		# if NUM is divisible by 15, replace number with word: FIZZ BUZZ#
+		IF i MOD 15 EQ 0 THEN 
+			print (("FIZZ BUZZ", new line))
+		# if NUM is divisible by 3, replace number with word: FIZZ #
+		ELIF i MOD 3 EQ 0 THEN 
+			print (("FIZZ", new line))
+
+		# if NUM is divisible by 5, replace number with word: BUZZ #    
+		ELIF i MOD 5 EQ 0 THEN 
+			print (( "BUZZ", new line))
+
+		# else print NUM as is #
+		ELSE
+			printf (($ 2d , l $, i))
+		FI
+	OD
+END
